@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Davis;Luke;;;
+FN:Luke Davis
+ORG:Mt Vernon Mennonite Church
+ADR;TYPE=WORK:13188 Port Republic Rd
+Grottoes, VA 24441
+TITLE:Director of Technology
+TEL;TYPE=CELL:540-830-3051
+TEL;TYPE=WORK:504-289-2418
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:luked@mtvmchurch.com
+URL;TYPE=Digital Business Card:https://lukewdavis.github.io/businesscard-mtv/
+URL:https://www.mtvernonmennonitechurch.com
+URL;TYPE=Website:https://www.mtvernonmennonitechurch.com
+URL;TYPE=Location:13188 Port Republic Rd Grottoes, VA 24441
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:"... to grow in maturity in Christ, to share with each other, to serve our world."
+UID:EnBizCard-100714341
+END:VCARD
